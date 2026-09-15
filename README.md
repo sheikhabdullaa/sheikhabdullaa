@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter mobile apps<br>🌱 I’m learning advanced state management & clean architecture<br>👯 I’m looking to collaborate on mobile app development projects<br>💬 Ask me about Flutter, Dart, Firebase, and UI design<br>⚡ Fun fact: I love turning ideas into real working apps 🚀<br>      Worked on 15+ Apps <br>       10+ Apps are live<br>      Still Working as Flutter App Development<br>    <br>    
+🔭 I’m currently working on Flutter mobile apps<br>🌱 I’m learning advanced state management & clean architecture<br>👯 I’m looking to collaborate on mobile app development projects<br>💬 Ask me about Flutter, Dart, Firebase, and UI design<br>⚡ Fun fact: I love turning ideas into real working apps 🚀<br>      Worked on 20+ Apps <br>       10+ Apps are live<br>      Still Working as Flutter App Development<br>    <br>    
 
 
 ## 🌐 Socials:
